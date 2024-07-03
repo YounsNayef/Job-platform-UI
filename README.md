@@ -11,6 +11,8 @@ User Profiles: Detailed profiles for job seekers and employers to showcase skill
 Job Posting: Simple and efficient job posting process for employers, including management of posted listings.
 Technologies Used
 Frontend: HTML, CSS, JavaScript
+Frameworks/Libraries: Bootstrap, React (if applicable)
+Design Tools: Adobe XD, Sketch (if used for design)
 Installation
 Clone the repository: git clone <repository-url>
 Open index.html in your browser to view the UI.
